@@ -219,18 +219,18 @@
 <p class="text13">Sarong styles!</p>
 <div class="container">
     <div id="slides">
-      <img src="featured/05.jpg">
-	  <img src="featured/03.jpg">
-      <img src="featured/04.jpg">
-      <img src="featured/06.jpg">
-      <img src="featured/07.jpg">
-      <img src="featured/08.jpg">
-	  <img src="featured/09.jpg">
-      <img src="featured/10.jpg">
-      <img src="featured/11.jpg">
-      <img src="featured/12.jpg">
-	  <img src="featured/13.jpg">
-      <img src="featured/14.jpg">
+      <img src="featured/05.png">
+	  <img src="featured/03.png">
+      <img src="featured/04.png">
+      <img src="featured/06.png">
+      <img src="featured/07.png">
+      <img src="featured/08.png">
+	  <img src="featured/09.png">
+      <img src="featured/10.png">
+      <img src="featured/11.png">
+      <img src="featured/12.png">
+	  <img src="featured/13.png">
+      <img src="featured/14.png">
     </div>
   </div>
 </div>
