@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Moda Iconica: Iconic Fashion</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css" />
+<link rel="shortcut icon" href="favicon.png" type="image/png">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style1.css" />
+    <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/grid_12.css" />
+    <link href='http://fonts.googleapis.com/css?family=Mr+De+Haviland' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" type="text/css" media="screen" href="css/slider.css" />
+    <script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="js/tabs.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Condiment' rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css' />
+    <script src="js/jquery-1.7.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/tms-0.4.x.js"></script>
+    <script>
+		$(document).ready(function(){				   	
+			$('.slider')._TMS({
+				show:0,
+				pauseOnHover:true,
+				prevBu:false,
+				nextBu:false,
+				playBu:false,
+				duration:1000,
+				preset:'fade',
+				pagination:true,
+				pagNums:false,
+				slideshow:2000,
+				numStatus:true,
+				banners:'fromRight',
+				waitBannerAnimation:false,
+				progressBar:false
+			})		
+		});
+	</script>
+	<!--[if lt IE 8]>
+       <div style=' clear: both; text-align:center; position: relative;'>
+         <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+           <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+        </a>
+      </div>
+    <![endif]-->
+    <!--[if lt IE 9]>
+   		<script type="text/javascript" src="js/html5.js"></script>
+    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+	<![endif]-->
+</head>
+<body>
+<div class="main"><div class="header">
+<div class="logo"><br><br><p class="text">Moda Iconica</p><p class="text1">iconic fashion blog</p></div><br>
+<!--<div class="logo"><a href="index.html"><img src="images/logo-small.jpg" alt="Moda Iconica"></a></div>-->
+
+
+
+<div class="nav">
+
+                <ul class="menu">
+                 
+                    <li><a href="index.html"><img src="images/06.png" alt="" /></a></li>
+                    <li><a href="about.html"><img src="images/07.png" alt="" /></a></li>
+                    <li><a href="featured.html"><img src="images/08.png" alt="" /></a></li>
+                    <li><a href="archives.html"><img src="images/09.png" alt="" /></a></li>
+                    <li><a href="contact.html"><img src="images/10.png" alt="" /></a></li>
+                </ul>
+
+
+</div></div><div class="clear"></div>
+<br>
+<hr>
+<br>
+<div class="clear"></div>
+<div class="center">
+<div class="slider">
+               <ul class="items">
+                    <li><img src="images/01.jpg" alt="" /><div class="banner"></div></li>
+                    <li><img src="images/02.jpg" alt="" /><div class="banner"></div></li>
+                    <li><img src="images/03.jpg" alt="" /><div class="banner"></div></li>
+                    <li><img src="images/04.jpg" alt="" /><div class="banner"></div></li>
+                    <li><img src="images/05.jpg" alt="" /><div class="banner"></div></li>
+                </ul>
+            </div>
+
+
+</div>
+
+<div class="footer"><div class="v">Moda Iconica &copy; 2013 &bull; Privacy Policy &bull; </div>
+</div>
+<div class="foot"><a href="#"><img src="images/11.png" alt="" /></a><a href="#"><img src="images/12.png" alt="" /></a><a href="#"><img src="images/13.png" alt="" /></a><a href="#"><img src="images/14.png" alt="" /></a></div>
+
+
+
+
+</div>
+</body>
+</html>
